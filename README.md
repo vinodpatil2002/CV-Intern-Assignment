@@ -11,7 +11,7 @@ Dataset Link -> [Click Here](https://drive.google.com/drive/folders/1DCpmo919b7O
  - GPU Access : This whole assignment was performed using Google Colab [link](https://github.com/vinodpatil2002/CV-Intern-Assignment/blob/56ff3302b6f48b06ada53f86a781d7100098d377/cv_intern_assignment.ipynb)
  - Download the pretrained model: [Link](https://drive.google.com/drive/folders/1qD5m1NmK0kjE5hh-G17XUX751WsEG-h_)
  - Validation : Run the pretrained model on the current dataset (done ✅) code provided in the notebook
- - Report and Visualtion : 
+ - Report and Visualization : 
    
 | Metric                                       | Value       |
 |----------------------------------------------|-------------|
@@ -33,7 +33,7 @@ Dataset Link -> [Click Here](https://drive.google.com/drive/folders/1DCpmo919b7O
 
 
  - Finetuning : The model was finetuned by reducing the `num_classes` from 91 to 2 and `dn_labebook_size` also to 2 as mentioned in the official repo that `dn_labebook_size >= num_classes + 1`
- - Report and visualation :
+ - Report and visualization :
 
 | Metric                                       | Value       |
 |----------------------------------------------|-------------|
